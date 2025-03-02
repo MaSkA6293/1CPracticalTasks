@@ -245,6 +245,11 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>Номенклатура</Catalog>
+			<Document>ПриходнаяНакладная</Document>
+			<Document>РасходнаяНакладная</Document>
+			<Report>ОстаткиТоваров</Report>
+			<AccumulationRegister>Товары</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
